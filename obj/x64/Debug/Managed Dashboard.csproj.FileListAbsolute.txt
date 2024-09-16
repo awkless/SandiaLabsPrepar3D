@@ -1,39 +1,67 @@
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\Managed Data Request.exe.config
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\Managed Data Request.exe
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\Managed Data Request.pdb
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed Dashboard.csproj.AssemblyReference.cache
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed_Data_Request.Properties.Resources.resources
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed Dashboard.csproj.GenerateResource.cache
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed Dashboard.csproj.CoreCompileInputs.cache
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed .223960C2.Up2Date
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed Data Request.exe
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed Data Request.pdb
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed_Dashboard.Form1.resources
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed Dashboard.csproj.AssemblyReference.cache
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed Dashboard.csproj.SuggestedBindingRedirects.cache
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed_Dashboard.Form1.resources
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed_Data_Request.Properties.Resources.resources
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed Dashboard.csproj.GenerateResource.cache
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed Dashboard.csproj.CoreCompileInputs.cache
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed Data Request.exe
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed Data Request.pdb
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\Managed Data Request.exe.config
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\Managed Data Request.exe
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\Managed Data Request.pdb
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\SimConnect Samples\Managed Dashboard\obj\x64\Debug\Managed Dashboard.csproj.CopyComplete
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\libHarfBuzzSharp.dylib
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\x86\libHarfBuzzSharp.dll
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\x64\libHarfBuzzSharp.dll
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\arm64\libHarfBuzzSharp.dll
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\libSkiaSharp.dylib
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\x86\libSkiaSharp.dll
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\x64\libSkiaSharp.dll
-C:\Program Files\Lockheed Martin\Prepar3D v5 SDK 5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\arm64\libSkiaSharp.dll
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\libHarfBuzzSharp.dylib
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\x86\libHarfBuzzSharp.dll
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\x64\libHarfBuzzSharp.dll
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\arm64\libHarfBuzzSharp.dll
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\libSkiaSharp.dylib
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\x86\libSkiaSharp.dll
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\x64\libSkiaSharp.dll
-E:\Program Files\Lockheed Martin\Prepar3D_v5_Academic_5.4.9.28482\Output\Debug\SimConnect Samples\Managed Data Request\arm64\libSkiaSharp.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\libHarfBuzzSharp.dylib
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\x86\libHarfBuzzSharp.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\x64\libHarfBuzzSharp.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\arm64\libHarfBuzzSharp.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\libSkiaSharp.dylib
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\x86\libSkiaSharp.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\x64\libSkiaSharp.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\arm64\libSkiaSharp.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\Managed Data Request.exe.config
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\Managed Data Request.exe
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\Managed Data Request.pdb
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\HarfBuzzSharp.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveCharts.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveCharts.WinForms.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveCharts.Wpf.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveChartsCore.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveChartsCore.SkiaSharpView.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveChartsCore.SkiaSharpView.WinForms.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LockheedMartin.Prepar3D.SimConnect.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\Newtonsoft.Json.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\OpenTK.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\OpenTK.GLControl.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\SkiaSharp.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\SkiaSharp.HarfBuzz.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\SkiaSharp.Views.Desktop.Common.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\SkiaSharp.Views.WindowsForms.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\System.Buffers.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\System.Drawing.Common.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\System.Memory.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\System.Numerics.Vectors.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\System.Runtime.CompilerServices.Unsafe.dll
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\HarfBuzzSharp.pdb
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\HarfBuzzSharp.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveCharts.pdb
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveCharts.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveCharts.WinForms.pdb
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveCharts.WinForms.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveCharts.Wpf.pdb
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveCharts.Wpf.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveChartsCore.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveChartsCore.SkiaSharpView.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\LiveChartsCore.SkiaSharpView.WinForms.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\Newtonsoft.Json.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\OpenTK.pdb
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\OpenTK.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\OpenTK.GLControl.pdb
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\OpenTK.GLControl.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\SkiaSharp.pdb
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\SkiaSharp.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\SkiaSharp.HarfBuzz.pdb
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\SkiaSharp.HarfBuzz.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\SkiaSharp.Views.Desktop.Common.pdb
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\SkiaSharp.Views.Desktop.Common.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\SkiaSharp.Views.WindowsForms.pdb
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\SkiaSharp.Views.WindowsForms.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\System.Buffers.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\System.Memory.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\System.Numerics.Vectors.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\Output\Debug\SimConnect Samples\Managed Data Request\System.Runtime.CompilerServices.Unsafe.xml
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\obj\x64\Debug\Managed Dashboard.csproj.AssemblyReference.cache
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\obj\x64\Debug\Managed_Dashboard.Form1.resources
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\obj\x64\Debug\Managed_Data_Request.Properties.Resources.resources
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\obj\x64\Debug\Managed Dashboard.csproj.GenerateResource.cache
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\obj\x64\Debug\Managed Dashboard.csproj.CoreCompileInputs.cache
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\obj\x64\Debug\Managed .223960C2.Up2Date
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\obj\x64\Debug\Managed Data Request.exe
+N:\Desktop\Fall2024\SandiaForked\SandiaLabsPrepar3D\obj\x64\Debug\Managed Data Request.pdb
