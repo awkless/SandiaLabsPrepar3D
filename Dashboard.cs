@@ -159,7 +159,7 @@ namespace Managed_Dashboard
         {
             InitializeComponent();
             InitializeTextBoxes();
-
+          
             // Set window to fullscreen with transparency
             this.WindowState = FormWindowState.Normal;
             this.FormBorderStyle = FormBorderStyle.None;
@@ -202,7 +202,7 @@ namespace Managed_Dashboard
             InitializeSpeed();
             Initializepb();
             InitializeHeading();
-            InitializeGForce(); // Initialize the G-force GroupBox
+            InitializeGForce();// Initialize the G-force GroupBox
 
             altitudeGroupBox.Controls.Add(altitude_chart);
             speedGroupBox.Controls.Add(speed_chart);
@@ -303,10 +303,15 @@ namespace Managed_Dashboard
             // Set the size of the group boxes relative to the window size (e.g., 40% width, 20% height)
             int groupBoxWidth = (int)(windowWidth * 0.2); // 20% of the window width
             int groupBoxHeight = (int)(windowHeight * 0.2); // 20% of the window height
+            int pictureBoxWidth = (int)(windowWidth * 0.2);
+            int pictureBoxHeight = (int)(windowHeight * 0.2);
 
             // Calculate the vertical offset to center the group boxes on the left and right sides
             int leftSideY = (windowHeight - (2 * groupBoxHeight) - 20) / 2; // 20 is the total gap between the boxes
             int rightSideY = leftSideY; // Symmetrical for the right side
+
+            int leftSideYGForce = (windowHeight - (2 * pictureBoxHeight) - 20) / 2;
+            int rightSideYGForce = leftSideYGForce;
 
             // Set the positions for the left-side group boxes (altitude and speed) in the middle
             altitudeGroupBox.Size = new Size(groupBoxWidth, groupBoxHeight);
@@ -317,6 +322,9 @@ namespace Managed_Dashboard
 
             gForceGroupBox.Size = new Size(groupBoxWidth, groupBoxHeight);
             gForceGroupBox.Location = new Point(windowWidth - groupBoxWidth - 10, rightSideY - groupBoxHeight - 10);
+
+            pictureBox1.Size = new Size(pictureBoxWidth, pictureBoxHeight);
+            pictureBox1.Location = new Point(windowWidth - pictureBoxWidth - 10, rightSideY - pictureBoxHeight - 10);
 
             // Set the positions for the right-side group boxes (pitch-bank and magnetic heading) in the middle
             pbGroupBox.Size = new Size(groupBoxWidth, groupBoxHeight);
@@ -668,6 +676,34 @@ namespace Managed_Dashboard
             };
         }
 
+
+     
+
+        private void UpdateGForceIndicator(float gForceLevel)
+        {
+            // Check the G-force level and set the appropriate imaged
+            if (gForceLevel >= 3.0)
+            {
+                // Set the green sprite if G-force is above 3.0
+                pictureBox1.Image = ManagedDashboard.Properties.Resources.GForceGreen;
+            }
+            else
+            {
+                // Set the red sprite if G-force is below 3.0
+                pictureBox1.Image = ManagedDashboard.Properties.Resources.GForceRed;
+            }
+
+            // Adjust the image layout
+            
+            //pictureBox1.Location = new Point(1000, 100);
+        }
+
+        // Call UpdateGForceIndicator whenever G-force levels change
+        private void OnGForceLevelChanged(float newGForceLevel)
+        {
+            UpdateGForceIndicator(newGForceLevel);
+        }
+
         private void InitializeAllGroupBox()
         {
             altitudeGroupBox = new GroupBox()
@@ -973,5 +1009,14 @@ namespace Managed_Dashboard
             }
         }
 
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_LocationChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
