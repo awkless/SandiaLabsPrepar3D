@@ -639,6 +639,7 @@ namespace Managed_Dashboard
                         latitudeTextBox.Text = s1.latitude.ToString("F6");
                         longitudeTextBox.Text = s1.longitude.ToString("F6");
                         gForceLabel.Text = $"G-force: {s1.gForce:F2} Gs";
+                        UpdateGForceIndicator(s1.gForce);
 
                         // Log data to CSV
                         LogDataToCsv(s1);
@@ -679,22 +680,24 @@ namespace Managed_Dashboard
 
      
 
-        private void UpdateGForceIndicator(float gForceLevel)
+        private void UpdateGForceIndicator(double gForceLevel)
         {
             // Check the G-force level and set the appropriate imaged
             if (gForceLevel >= 3.0)
             {
-                // Set the green sprite if G-force is above 3.0
+                // Set the red sprite if G-force is above 3.0
+                pictureBox1.Image = ManagedDashboard.Properties.Resources.GForceRed;
+               
+            }
+            else if (gForceLevel < 3.0)
+            {
+                // Set the green sprite if G-force is below 3.0
                 pictureBox1.Image = ManagedDashboard.Properties.Resources.GForceGreen;
             }
-            else
-            {
-                // Set the red sprite if G-force is below 3.0
-                pictureBox1.Image = ManagedDashboard.Properties.Resources.GForceRed;
-            }
 
-            // Adjust the image layout
             
+            gForceLabel.Text = $"G-force: {gForceLevel:F2} Gs"; // Update G-force label
+
             //pictureBox1.Location = new Point(1000, 100);
         }
 
