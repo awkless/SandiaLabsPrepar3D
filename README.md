@@ -18,6 +18,8 @@ should see the overlay render on top of the simulator.
 
 # Features
 
+![final product](docs/final_product.png)
+
 - Fully transparent overlay that follows and resizes to fit the simulator window
   automatically.
 - Connect, disconnect, show/hide, and PDF report buttons.
